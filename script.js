@@ -1,8 +1,8 @@
 var songs = [
-  { name: "Ehd-e-Wafa", image: "./images/Ehd-e-Wafa.jpg", url: "./music/Ehd-e-Wafa.mp3" },
+  { name: "Glory Huming", image: "./images/GloryHuming.jpg", url: "./music/Glory Huming.mp3"},
   { name: "Burdah shareef", image: "./images/Burdahshareef.jpg", url: "./music/Burdahshareef.mp3"},
   { name: "Traveller", image: "./images/traveller.jpg", url: "./music/traveller.mp3" },
-  { name: "Glory Huming", image: "./images/GloryHuming.jpg", url: "./music/Glory Huming.mp3"},
+  { name: "Ehd-e-Wafa", image: "./images/Ehd-e-Wafa.jpg", url: "./music/Ehd-e-Wafa.mp3" },
   { name: "plevne Marsi", image: "./images/plevnemarsi.jpeg", url: "./music/plevne Marsi.mp3"}
 ]
 
